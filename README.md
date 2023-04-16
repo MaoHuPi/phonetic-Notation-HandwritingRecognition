@@ -1,3 +1,13 @@
+Phonetic Notation Handwriting Recognition
+
+> 2023 © MaoHuPi
+
+## 問題連結
+
+> https://ithelp.ithome.com.tw/questions/10212641#answer-389372
+
+## 原回答(後來程式碼有再改，所以直接看檔案內容才是最新版本)
+
 以下直接給程式碼，因改自舊專案所以有一些殘留(多餘)的東西，請見諒！
 
 架構
